@@ -1,7 +1,6 @@
 # eye_tracking_demo
 
 
-## ---------
 ### demo_v0.3.py
 기준이 되는 지표 설정 후 시선에 따른 영역 분류
 ### demo_v0.5.py
